@@ -1,0 +1,22 @@
+body{
+    background-color: #000;
+    color: #fff;
+    font-family: 'Press Start 2P', cursive;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+h1{
+    font-size: 25px;
+    margin: 0;
+    padding: 0;
+}
+
+canvas{
+    display: block;
+    background-color: blue;
+    border: 1px solid rgb(255, 255, 255);
+}
