@@ -114,7 +114,7 @@ setInterval(() => {
     dessinerBurger();
     collision();
     console.log(serpent[0].x, serpent[0].y);
-}, 100);
+}, 1044560);
 
 
 
