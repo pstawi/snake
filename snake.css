@@ -1,5 +1,5 @@
 body{
-    background-color: #000;
+    background-color: #dd1616;
     color: #fff;
     font-family: 'Press Start 2P', cursive;
     margin: 0;
@@ -17,6 +17,6 @@ h1{
 
 canvas{
     display: block;
-    background-color: blue;
+    background-color: rgb(16, 221, 13);
     border: 1px solid rgb(255, 255, 255);
 }

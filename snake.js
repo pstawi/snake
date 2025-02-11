@@ -1,5 +1,7 @@
 document.addEventListener("DOMContentLoaded", function() {
 
+    console.log("DOM chargé");
+
 const burgerIMG = new Image();
 burgerIMG.src = "./img/burger.png";
 
